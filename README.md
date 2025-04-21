@@ -1,5 +1,5 @@
 ### EX5 Information Retrieval Using Boolean Model in Python
-### DATE: 21-06-2025
+### DATE: 21-04-2025
 ### AIM: To implement Information Retrieval Using Boolean Model in Python.
 ### Description:
 <div align = "justify">
@@ -134,3 +134,4 @@ class BooleanRetrieval:
 
 
 ### Result:
+The program indexes documents and allows Boolean queries using AND, OR, and NOT operations. Given a query, it processes the terms, applies the logic, and returns document IDs that match the conditions. For example, querying "python AND language" would return document 1 as the result.
