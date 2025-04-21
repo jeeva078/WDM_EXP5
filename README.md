@@ -127,10 +127,6 @@ if __name__ == "__main__":
     else:
         print("No results found for the query.")
 
-   
-
-
-   
 
 
 ### Output:
